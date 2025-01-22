@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 
 ## [2.2.2] - 25-01-21
+## [2.3.2] - 25-01-21
+### Added
+1. first minor change.
+### Fixed
+1. first patch change.
+2. second patch change.
+
 ### Added
 1. first major change.
 1. first minor change.
