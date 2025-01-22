@@ -4,15 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## [4.2.2] - 25-01-22
+## [3.1.1] - 25-01-22
 ### Added
-1. major to be removed..
 1. tsts major desc..
 ### Changed
-1. minor to be removed..
 1. minor test desc..
 ### Fixed
-1. patch to be removed..
 1. patch test desc..
 
 ## [2.2.2] - 25-01-22
