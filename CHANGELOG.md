@@ -5,6 +5,15 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 
+## [3.2.2] - 25-01-22
+### Added
+1. first major change.
+1. first minor change.
+1. first minor change.
+### Fixed
+1. first patch change.
+2. second patch change.
+
 ## [2.3.2] - 25-01-22
 ### Added
 1. first minor change.
