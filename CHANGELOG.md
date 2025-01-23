@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [4.2.1] - 25-01-22
+### Added
+1. major desc to be removed..
+1. minor desc to be removed..
+1. last batch minor change desc..
+### Changed
+1. last patch desc..
+
 ## [3.1.1] - 25-01-22
 ### Added
 1. tsts major desc..
