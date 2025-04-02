@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [3.5.0] - 25-04-01
+### Feature
+1. introduces new tag feature.
+2. introduces enhancement tag.
+3. introduces bug tag.
+### Enhancement
+### Bug
+
 ## [3.2.1] - 25-01-22
 ### Added
 1. last batch minor change desc..
