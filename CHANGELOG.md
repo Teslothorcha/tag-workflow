@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [7.1.0] - 25-04-04
+### Bug fixed
+1. test major.
+1. test major.
+### Removed
+2. test major.
+1. test minor.
+
 ## [4.1.0] - 25-04-03
 ### Feature
 1. test major.
