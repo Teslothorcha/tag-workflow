@@ -4,10 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## [7.1.2] - 25-04-04
+## [6.1.1] - 25-04-04
 ### Enhancement
-1. test major.
-1. test aptch.
 1. test minor.
 ### Bug fixed
 1. test patch.
