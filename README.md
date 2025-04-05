@@ -17,10 +17,6 @@
 
 # add test 5
 
-# add test 6
-# add test 7
-# add test 8
-
 # add test 9
 # add test 10
 # add test 11
